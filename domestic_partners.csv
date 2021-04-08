@@ -9,8 +9,8 @@
 경산시,경산시,JB모터스,"569 Wonhyo-ro, Amnyang-myeon"
 경산시,경산시,카포스머쉰JR,"102 Gyeongan-ro, Samnam-dong"
 경주시,경주시,애니카랜드 성건점,"382 Geumseong-ro, Seonggeon-dong"
-고양시,일산서구,여우카,"6-3 Baekseong-ro 71(chilsibil)beon, Baekseok 1(il)-dong"
-고양시,일산서구,후곡카프라자,"571 Ilsan-ro, Ilsan 3(sam)-dong, Ilsanseo-gu, Goyang-si, Gyeonggi-do"
+고양시,일산서구,여우카,"Baekseok 1(il)-dong, Ilsandong-gu, Goyang-si, Gyeonggi-do"
+고양시,일산서구,후곡카프라자,"1059 Ilsan-dong, Ilsanseo-gu"
 고양시,일산서구,탑모터스 대화점,"73-1 Hosu-ro 838beon-gil, Daehwa-dong"
 광양시,광양시,백운1급자동차정비공업사,"1269 Baegun-ro, Jungma-dong"
 광주시,남구,애니카랜드 진월점,415-11 Jinwol-dong
@@ -29,7 +29,7 @@
 남양주시,남양주시,오일플랜트,"1-29 Donong-dong, Namyangju-si, Gyeonggi-do"
 남양주시,남양주시,티스테이션 호평점,"6-1 Hopyeong-ro 68beon-gil, Hopyeong-dong"
 남양주시,남양주시,오토캠프,"11 Wolmuncheon-ro 173beon-gil, Wabu-eup"
-대구시,달서구,뉴대구 모터스,142-5 Songhyeon-dong
+대구시,달서구,뉴대구 모터스,송현동 142-2번지 달서구
 대구시,달성군,제이비모터스 세천점,"Secheon-ri, Dasa-eup, Dalseong-gun, Daegu"
 대구시,달성군,샵플러스원자동차정비,"540-1 Eum-ri, Yuga-myeon, Dalseong-gun, Daegu"
 대구시,달성군,애니카랜드 화원점,"12 Seonghwa-ro, Hwawon-eup"
@@ -47,7 +47,7 @@
 부산시,강서구,디알에프,"588 Renault samsung-daero, Myeongji-dong"
 부산시,금정구,타이어프로 금정점,"1891 Jungang-daero, Guseo-dong"
 부산시,남구,와이에이치모터스,"206-5 Gamman 1(il)-dong, Nam-gu, Busan"
-부산시,남구,원지카클리닉 용호점,"238 Yongho-ro, Yongho 4(sa)-dong"
+부산시,남구,원지카클리닉 용호점,"555-25 Yongho-dong, Nam-gu, Busan"
 부산시,동구,브라더모터스,부산 동구 초량상로 146
 부산시,동래구,티스테이션 동래점,부산 동래구 아시아드대로 254
 부산시,동래구,국제자동차정비,부산 동래구 반송로 350
@@ -225,7 +225,6 @@
 서울,송파구,프로미카월드 문정점,서울 송파구 송이로32길 36
 남원시,남원시,카젠 도통점,전북 남원시 통동 22-6
 경기도,용인시,1호카센타,경기도 용인시 기흥구 마북동 370-6
-서울시,광진구,프라임정비센터,서울특별시 광진구 광나루로56길 85 강변테크노마트 지하2층
 서울시,강서구,경성모터스,서울 강서구 양천로60길 44
 서울시,강동구,티스테이션 천호사거리점,서울 강동구 올림픽로 584-1
 서울시,강북구,진영자동차공업사,서울 강북구 도봉로30길 6
@@ -314,7 +313,7 @@
 부산시,남구,프로미카월드 부산범일점,"98-16 Jaseong-ro, Beomil-dong"
 인천시,남동구,티스테이션 인천대공원점,산79-1 Jangsuseochang-dong
 창원시,성산구,광석정비세차,"21 Banji-ro 32beon-gil, Banji-dong"
-파주시,파주시,마스타 준 모터스 파주운정1호점,915 Unjeong 1(il)-dong
+파주시,파주시,마스타 준 모터스 파주운정1호점,"252-4 Unjeong 1(il)-dong, Paju-si, Gyeonggi-do"
 하남,하남,오토샤인 미사강동점,144-7 Misa-dong
 창원시,마산회원구,테드모터스,661 Bongam-dong
 서울,위례,위례자동차서비스,"27 Heolleung-ro 757-gil, Segok-dong"
