@@ -26,7 +26,6 @@
 김해시,김해시,모터뱅크센터,"540-8 Jeonha-dong, Gimhae-si, Gyeongsangnam-do"
 김해시,김해시,세븐타이어,"2633 Gimhae-daero, Saman-dong"
 남양주시,남양주시,티스테이션 진접점,"190 Janghyeon-ro, Jinjeop-eup"
-남양주시,남양주시,오일플랜트,"1-29 Donong-dong, Namyangju-si, Gyeonggi-do"
 남양주시,남양주시,티스테이션 호평점,"6-1 Hopyeong-ro 68beon-gil, Hopyeong-dong"
 남양주시,남양주시,오토캠프,"11 Wolmuncheon-ro 173beon-gil, Wabu-eup"
 대구시,달서구,뉴대구 모터스,송현동 142-2번지 달서구
@@ -38,11 +37,10 @@
 대구시,수성구,썬모터스,"2 Suseong-ro, Sang-dong"
 대구시,수성구,피트인모터스,"154 Hwarang-ro, Manchon-dong"
 대구시,수성구,오토 마이 모티브,"462-57 Siji-dong, Suseong-gu, Daegu"
-대전시,대덕구,하이카프라자 대전모터스,"220 Deogam-ro, Deogam-dong"
 대전시,서구,타이어테크 도안점,"361-3 Doan-dong, Seo-gu, Daejeon"
 대전시,유성구,하이카프라자 복용점,"432-8 Oncheon 1(il)-dong, Yuseong-gu, Daejeon"
 대전시,유성구,타이어 프리미엄아울렛,"49 Oncheondong-ro, Bongmyeong-dong, Yuseong-gu, Daejeon"
-대전시,중구,유승모터스,192-11 Oryu-dong
+대전시,중구,유승모터스,오류동 192-11번지 중구 대전광역시 KR
 동해시,동해시,오토오아시스 로타리점,"Gangwon-do, Donghae-si, Cheongok-dong, 1066"
 부산시,강서구,디알에프,"588 Renault samsung-daero, Myeongji-dong"
 부산시,금정구,타이어프로 금정점,"1891 Jungang-daero, Guseo-dong"
@@ -256,8 +254,8 @@
 경북,영천시,애니카랜드 금노점,경북 영천시 금완로 27
 제주시,제주시,애니카랜드 삼화점,제주 제주시 동화로 24
 제주시,제주시,24시자동차정비,제주특별자치도 제주시 월광로 42
-층남,보령,타이어프로 동대점,충남 천안시 동남구 남부대로 108
-충남,예산,JC Auto,충남 예산군 예산읍 벚꽃로 148
+층남,보령,타이어프로 동대점,"1755 Daecheon 3(sam)-dong, Boryeong-si, Chungcheongnam-do"
+충남,예산,JC Auto,"148 Beotkkot-ro, Yesan-eup"
 청주시,상당구,애니카랜드 영운점,충북 청주시 상당구 단재로 136
 포항시,남구,애니카랜드 청림점,경북 포항시 남구 동해안로 6055
 구미시,신평동,오토오아시스 신평점,경북 구미시 야은로 726
@@ -370,3 +368,11 @@
 서울시 ,서초동,티스테이션 서초점,"386 Hyoryeong-ro, Seocho-dong"
 서울시,한남동,티스테이션 한남점,"80 Hannam-daero, Hannam-dong"
 김포,운암동,1급 김포현대카독크,"1152-1 Gimpo 2(i)-dong, Gimpo-si, Gyeonggi-do"
+구리시,수택동,신내자동차 정비센타,"5 Geombae-ro 83beon-gil, Sutaek-dong"
+화성시,봉담읍,소망카샵,"158 Hyohaeng-ro, Bongdam-eup"
+용인시,오포읍,애니카랜드 오포점,"457 Opo-ro, Opo-eup"
+화성시,능동,타이어프로 동탄신도시점,"376 10yongsa-ro, Neung-dong"
+인천시,송도동,티스테이션 홈플러스송도점,Songdo Gukje-daero
+인천시,오류동,카카오모터스 카센터,448 Oryu-dong
+인천시,금곡동,차차자동차정비공업사,"403-2 Geumgok-dong, Seo-gu, Incheon"
+고양시,고양동,화인모터스,"78 Goyang-dong, Deokyang-gu, Goyang-si, Gyeonggi-do"
